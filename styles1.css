@@ -109,8 +109,9 @@ html{
         font-size: 27px;
     }
 }
-@media screen and (max-width: 350px)
-{.home .max-width
+@media screen and (max-width: 400px)
+{
+.home .max-width
 {
   margin-left: 10px;
   margin-top: 340px;
